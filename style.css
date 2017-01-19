@@ -49,19 +49,19 @@ header h1{
 	color: white;
 }
 .wrapper > .page:nth-child(1){
-	background-image: url('../images/img01.jpg');
+	background-image: url('img01.jpg');
 	background-size: cover;
 }
 .wrapper > .page:nth-child(2){
-	background-image: url('../images/img02.jpg');
+	background-image: url('img02.jpg');
 	background-size: cover;			
 }	
 .wrapper > .page:nth-child(3){
-	background-image: url('../images/img03.jpg');
+	background-image: url('img03.jpg');
 	background-size: cover;	
 }
 .wrapper > .page:nth-child(4){
-	background-image: url('../images/img04.jpg');
+	background-image: url('img04.jpg');
 	background-size: cover;				
 }							
 
